@@ -8,3 +8,5 @@ He said hello to Sam.
 They open their books.
 The lecturer started teaching.
 The subject for that day is microcontroller and interfacing.
+Adam and Sam took notes.
+Adam asked a question.
