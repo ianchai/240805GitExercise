@@ -10,3 +10,5 @@ The lecturer started teaching.
 The subject for that day is microcontroller and interfacing.
 Adam and Sam took notes.
 Adam asked a question.
+Lecture reminded them about assignment submission.
+
