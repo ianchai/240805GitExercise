@@ -7,8 +7,8 @@ Then he goes to class.
 He said hello to Sam.
 They open their books.
 The lecturer started teaching.
-The subject for that day is microcontroller and interfacing.
+The subject for that day is embedded system programming.
 Adam and Sam took notes.
 Adam asked a question.
+The lecturer explained the requirements for the assignment.
 Lecture reminded them about assignment submission.
-
