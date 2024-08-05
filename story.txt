@@ -12,3 +12,4 @@ Adam and Sam took notes.
 Adam asked a question.
 The lecturer explained the requirements for the assignment.
 Lecture reminded them about assignment submission.
+Deadline is tomorrow
