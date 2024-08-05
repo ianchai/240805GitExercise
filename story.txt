@@ -8,3 +8,4 @@ He said hello to Sam.
 They open their books.
 The lecturer started teaching.
 Adam and Sam took notes.
+Adam asked a question.
